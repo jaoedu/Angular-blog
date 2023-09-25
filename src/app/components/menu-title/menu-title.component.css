@@ -1,0 +1,18 @@
+.container__menu-title{
+color:white;
+
+
+}
+
+.container__menu-title {
+
+  display: flex;
+  justify-content: center;
+
+}
+  .photo-pricipal{
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-image: #111113;
+}
+

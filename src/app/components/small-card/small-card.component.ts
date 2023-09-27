@@ -12,4 +12,6 @@ export class SmallCardComponent {
   photoCover: string = "";
   @Input()
   link: string = "";
+  @Input()
+  Id: string = "0";
 }
